@@ -17,7 +17,7 @@ public class Variables {
 		method("Essex");
 		
 	}
-
+// <<<<<<<<git add>>>>>>
 	public static void method (String country) {	// Method parameter - variable used as method parameter
 		
 		/*
